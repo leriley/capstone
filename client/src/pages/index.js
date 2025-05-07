@@ -1,0 +1,15 @@
+export { default as Error } from './Error';
+export { default as HomeLayout } from './Homelayout';
+export { default as Homepage } from './Homepage';
+export { default as Login } from './Login';
+export { default as Profile } from './Profile';
+export { default as Register } from './Register';
+export { default as Upload } from './Upload';
+export { default as MainGallery } from './MainGallery';
+export { default as Gallery } from './Gallery';
+export { default as DashboardLayout } from './DashboardLayout';
+export { default as FormRow } from '../components/FormRow'
+export { default as ViewImage } from './ViewImage';
+export { default as EditProfile } from './EditProfile';
+export { default as EditImage } from './EditImage';
+export { default as UserProfile } from './UserProfile';
