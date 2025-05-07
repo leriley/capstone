@@ -45,8 +45,6 @@ const Gallery = () => {
                 <Link to={`/dashboard/images/${image._id}`}>
                   <img src={image.filePath} alt={image.title}  />
                   </Link>
-              {/*<h4>{image.title}</h4>
-                  <p>{image.description}</p>*/}
                 </div>
               ))}
           </div>
